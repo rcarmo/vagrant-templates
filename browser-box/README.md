@@ -2,6 +2,10 @@
 
 A Vagrant template to quickly set up a usable browser accessible via [RDP][r].
 
+Targets:
+
+* Ubuntu 13.04 (should work just as well in most Debian-based distros)
+
 Includes:
 
 * Chromium

@@ -13,6 +13,6 @@ class msfonts {
 include msfonts
 
 # This will also setup vnc4server as a back-end for xrdp
-package { ["chromium-browser", "openbox", "xrdp", "rxvt", "vim"]:
+package { ["chromium-browser", "openbox", "xrdp", "rxvt", "vim", "fbpanel", "lxappearance"]:
     ensure => installed,
 }

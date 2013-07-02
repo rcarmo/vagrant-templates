@@ -1,0 +1,1963 @@
+{
+	"folder_history":
+	[
+		"/Users/rcarmo/Dropbox/Development/github/ink-dash",
+		"/Users/rcarmo/CloudPT/Development/raspberry-imager",
+		"/Users/rcarmo/CloudPT/Development/echoprint-crawler",
+		"/Users/rcarmo/CloudPT/Development/Ink",
+		"/Users/rcarmo/CloudPT/Development/golias-meo-analytics",
+		"/Users/rcarmo/Dropbox/Development/github",
+		"/Users/rcarmo/CloudPT/Development/meokanal",
+		"/Users/rcarmo/CloudPT/Development/digital-signage-server",
+		"/Users/rcarmo/CloudPT/Development/intra-api",
+		"/Users/rcarmo/Dropbox/Development/yaki-tng",
+		"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end",
+		"/Users/rcarmo/Dropbox/Development/github/bottle-fever/routes",
+		"/Users/rcarmo/Dropbox/Development/github/bottle-fever/views",
+		"/Users/rcarmo/CloudPT/Development/web.frameworks.samples",
+		"/Users/rcarmo/CloudPT/Development/web.frameworks.samples/python.bottle",
+		"/Users/rcarmo/CloudPT/Development/lists-api",
+		"/Users/rcarmo/Dropbox/Development/github/bottle-fever",
+		"/Users/rcarmo/CloudPT/Development/Ink/documentation",
+		"/Users/rcarmo/CloudPT/Development/trac-ink",
+		"/Users/rcarmo/CloudPT/Development/digital-signage-client",
+		"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/dev/Java",
+		"/Users/rcarmo/CloudPT/Development/pa-prototype/importer",
+		"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end",
+		"/Users/rcarmo/CloudPT/Development/pa-prototype/importer/solr",
+		"/Users/rcarmo/CloudPT/Development/qtz-reverse",
+		"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/snakelets/webapps/ROOT/web/themes/serif",
+		"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space",
+		"/Users/rcarmo/CloudPT/Development/codebits-plasmas",
+		"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog",
+		"/Users/rcarmo/Dropbox/Sites"
+	],
+	"last_window_id": 95,
+	"settings":
+	{
+		"new_window_height": 752.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"qemu",
+						"qemu-system-arm"
+					],
+					[
+						"Fore",
+						"ForeignKeyField"
+					],
+					[
+						"content-",
+						"Content-Type"
+					],
+					[
+						"mar",
+						"markdown"
+					],
+					[
+						"fp",
+						"fp_code"
+					],
+					[
+						"query",
+						"query_time"
+					],
+					[
+						"random_",
+						"random_last_name"
+					],
+					[
+						"fav",
+						"favicon"
+					],
+					[
+						"de",
+						"defaultdict	import"
+					],
+					[
+						"no",
+						"NO_RESULTS"
+					],
+					[
+						"MUL",
+						"MULTIPLE_BAD_HISTOGRAM_MATCH"
+					],
+					[
+						"SIN",
+						"SINGLE_BAD_MATCH"
+					],
+					[
+						"SING",
+						"SINGLE_BAD_MATCH"
+					],
+					[
+						"NO",
+						"NO_RESULTS"
+					],
+					[
+						"NOT",
+						"NOT_ENOUGH_CODE"
+					],
+					[
+						"track_id",
+						"track_id_split"
+					],
+					[
+						"track_",
+						"track_id	statement"
+					],
+					[
+						"trac",
+						"track_id"
+					],
+					[
+						"list",
+						"mailing-list"
+					],
+					[
+						"include",
+						"include_private"
+					],
+					[
+						"incl",
+						"include_private"
+					],
+					[
+						"server",
+						"server_url"
+					],
+					[
+						"heapp",
+						"heappop"
+					],
+					[
+						"cl",
+						"cleanup"
+					],
+					[
+						"heap",
+						"heappush"
+					],
+					[
+						"hap",
+						"heappush"
+					],
+					[
+						"In",
+						"InMemoryHandler"
+					],
+					[
+						"e",
+						"e"
+					],
+					[
+						"Roboto",
+						"Roboto-Light"
+					],
+					[
+						"font-",
+						"font-family"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"list-",
+						"list-style-type"
+					],
+					[
+						"Roboto-Bold",
+						"Roboto-Bold-Condensed"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"local",
+						"local_uri"
+					],
+					[
+						"I",
+						"If-Modified-Since"
+					],
+					[
+						"json",
+						"json_response"
+					],
+					[
+						"JSONP",
+						"JSONPPlugin"
+					],
+					[
+						"bin",
+						"binascii"
+					],
+					[
+						"ser",
+						"server_url"
+					],
+					[
+						"rec",
+						"record"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"selected_items":
+				[
+					[
+						"upda",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Discover Packages"
+					],
+					[
+						"quick",
+						"Git: Quick Commit"
+					],
+					[
+						"install paca",
+						"Package Control: Install Package"
+					],
+					[
+						"package control ",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: Discover Packages"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"Qui",
+						"Git: Quick Commit"
+					],
+					[
+						"qui",
+						"Git: Quick Commit"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"stat",
+						"Git: Status"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git statu",
+						"Git: Status"
+					],
+					[
+						"quic",
+						"Git: Quick Commit"
+					],
+					[
+						"git commit ",
+						"Git: Commit"
+					],
+					[
+						"qui c",
+						"Git: Quick Commit"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"gist",
+						"Git: Status"
+					],
+					[
+						"gi stat",
+						"Git: Status"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"previ",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"omni",
+						"Preferences: OmniMarkupPreviewer Settings – Default"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"q",
+						"Git: Quick Commit"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git psuh",
+						"Git: Push Current Branch"
+					],
+					[
+						"qui ",
+						"Git: Quick Commit"
+					],
+					[
+						"gi a",
+						"Git: Add..."
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"align",
+						"Preferences: Alignment Key Bindings – Default"
+					],
+					[
+						"text",
+						"Set Syntax: Textile"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"quick com",
+						"Git: Quick Commit"
+					],
+					[
+						"gi com",
+						"Git: Commit"
+					],
+					[
+						"git di",
+						"Git: Diff Current File"
+					],
+					[
+						"git",
+						"Git: Quick Commit"
+					],
+					[
+						"gi pu",
+						"Git: Push"
+					],
+					[
+						"git ",
+						"Git: Quick Commit"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"com",
+						"Git: Commit"
+					],
+					[
+						"commi",
+						"Git: Commit"
+					],
+					[
+						"g a",
+						"Git: Add..."
+					],
+					[
+						"gi sta",
+						"Git: Status"
+					],
+					[
+						"giad",
+						"Git: Add..."
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"g sta",
+						"Git: Status"
+					],
+					[
+						"git p",
+						"Git: Push"
+					],
+					[
+						"diff all",
+						"Git: Diff All"
+					],
+					[
+						"git am",
+						"Git: Amend Commit"
+					],
+					[
+						"pus",
+						"Git: Push"
+					],
+					[
+						"gipush",
+						"Git: Push"
+					],
+					[
+						"al",
+						"Preferences: Alignment File Settings – Syntax Specific – User"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"yaml",
+						"Set Syntax: YAML"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"syntaxh",
+						"Set Syntax: HTML"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/06/30/1300/fabfile.py.txt",
+				"/Users/rcarmo/Dropbox/Scripts/digitalocean/control.py",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/06/30/1300/control.py.txt",
+				"/Users/rcarmo/Dropbox/Scripts/digitalocean.py",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/06/30/1300/draft.md",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/mixins.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/config/__grid.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/config/__tooltips.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/config/__typography.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/config/__widgets.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/widgets.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/alerts.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/icons/core.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/config/__navigation.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/tables.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/documentation/download.html",
+				"/Users/rcarmo/CloudPT/Development/Ink/cookbook/tables.html",
+				"/Users/rcarmo/CloudPT/Development/Ink/cookbook/fixed-width-column.html",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/docs.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/buttons.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/footer.less",
+				"/Users/rcarmo/Dropbox/Development/yaki-tng/lib/utils/stringkit.py",
+				"/Users/rcarmo/Dropbox/Development/yaki-tng/lib/yaki/Utils.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/app.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/routes/__init__.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/api/fingerprint.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/lib/echoprint/query_engine.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/lib/echoprint/track_id.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/routes/docs.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/templates/docs.tpl",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/static/css/ink-min.css",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/routes/docs.tpl",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/api/echoprint.py",
+				"/Users/rcarmo/CloudPT/Development/web.frameworks.samples/golang.raw/server.go",
+				"/Users/rcarmo/CloudPT/Development/web.frameworks.samples/golang.raw/row.html",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/lib/decorators.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/controllers/users.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/api/fever.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/controllers/feeds.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/lib/utils/favicon.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/docs/fever_api.html",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/importer.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/models/__init__.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/lib/utils/datakit.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/app.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/data/config.json",
+				"/Users/rcarmo/Dropbox/Scripts/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/lib/echoprint/fp.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/lib/_api.py",
+				"/Users/rcarmo/Dropbox/Scripts/Sublime Text 2/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+				"/Users/rcarmo/Dropbox/Scripts/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/rcarmo/Dropbox/Development/github/newspipe/opml.py",
+				"/Users/rcarmo/Dropbox/Development/github/newspipe/newspipe.py",
+				"/Users/rcarmo/CloudPT/Development/lists-api/routes/__init__.py",
+				"/Users/rcarmo/CloudPT/Development/lists-api/lib/utils.py",
+				"/Users/rcarmo/Dropbox/Development/github/ink-bottle/lib/utils.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/lib/utils.py",
+				"/Users/rcarmo/CloudPT/Development/trac-ink/templates/site.html",
+				"/Users/rcarmo/CloudPT/Development/trac-ink/htdocs/css/trac-ink.css",
+				"/Users/rcarmo/CloudPT/Development/trac-ink/htdocs/css/ink.css",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/lib/beacon.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/app.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/README.md",
+				"/Users/rcarmo/CloudPT/Development/trac-ink/README",
+				"/Users/rcarmo/CloudPT/Development/lists-api/controllers/lists.py",
+				"/Users/rcarmo/CloudPT/Development/lists-api/controllers/__init__.py",
+				"/Users/rcarmo/CloudPT/Development/lists-api/api/lists.py",
+				"/Users/rcarmo/Dropbox/Scripts/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+				"/Users/rcarmo/Dropbox/Scripts/Mail/sieve.lists.sapo.vacation.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/02/24/2250/index.txt",
+				"/Users/rcarmo/CloudPT/Development/intra-api/data/config.json",
+				"/Users/rcarmo/Dropbox/Scripts/Mail/sieve.lists.sapo.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/02/24/2250/draft.md",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/02/24/1546/draft.md",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/02/23/1423/draft.md",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/api/__init__.py",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/data/config.json",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/models/__init__.py",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/app.py",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/static/index.html",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/views/search.tpl",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/routes/static.py",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/views/results.tpl",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/views/docs.tpl",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/02/03/1847/index.txt",
+				"/Users/rcarmo/CloudPT/Development/qtz-reverse/feeds.json",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/02/01/1700/draft.md",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/com/Google/Android/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/dev/htmlArea/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/infoviz/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/dev/JavaScript/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/cli/vim/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/dev/Python/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/protocols/X/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/markup/CSS/index.txt",
+				"/Users/rcarmo/Dropbox/Development/sapo/broker/vpn.py",
+				"/Users/rcarmo/CloudPT/Development/intra-api/lib/utils.py",
+				"/Users/rcarmo/Dropbox/simplify.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/screens/tweets.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/screens/text.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/layout.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/screens/qrcode.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/routes/static.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/generic/debug.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/generic/locate.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/generic/nonet.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/lib/playlist.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/lib/decorators.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/static/css/common.css",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/data/config.json.dist",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/screens/pixelart.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/routes/__init__.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/routes/feeds.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/screens/news.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/static/css/news.css",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/generic/index.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/routes/content.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/screens/brand.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/LICENSE",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/data/config.json",
+				"/Users/rcarmo/CloudPT/Development/intra-api/lib/bottle_plugins.py",
+				"/Users/rcarmo/CloudPT/Development/intra-api/app.py",
+				"/Users/rcarmo/CloudPT/Development/codebits-plasmas/client/signage/lib/player.py",
+				"/Users/rcarmo/CloudPT/Development/codebits-plasmas/server/signage/static/css/bootstrap.css",
+				"/Users/rcarmo/Desktop/data.csv",
+				"/Users/rcarmo/Dropbox/Scripts/Sublime Text 2/Packages/User/JSON.sublime-settings",
+				"/Users/rcarmo/CloudPT/Development/codebits-plasmas/client/signage/data/logging.json",
+				"/Users/rcarmo/CloudPT/Development/codebits-plasmas/client/signage/staging.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"*.html",
+					"*.less",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"start_qemu",
+					"table",
+					"border-radius",
+					"gradient",
+					"tooltip",
+					"border-radius",
+					"getpath",
+					"getPath",
+					"feeds",
+					"seq2",
+					"seq1",
+					"oneago",
+					"seq2",
+					"seq1",
+					"item2",
+					"onten",
+					"item1",
+					"code_string",
+					"cut_code_string_length",
+					"processing_time",
+					"trid",
+					"existing_trids",
+					"response",
+					"trackid",
+					"now",
+					", tic=tic",
+					"tic",
+					"trackids",
+					"local",
+					"pairs",
+					"random",
+					"s",
+					"actual_code",
+					"compressed_code_string",
+					" (",
+					"# end .*",
+					"arbol",
+					"AplanarArbol",
+					"entidades",
+					"# end def ",
+					"# end if",
+					"        # end if        \n",
+					"    # end for",
+					"lista",
+					"archivo",
+					"nombre",
+					"raiz",
+					"hijo",
+					"hijos",
+					"ProcesarRama",
+					"CrearDiccionario",
+					"ricardo",
+					"lista",
+					"AgruparItems",
+					"EnviarEmails",
+					"semaforo_html2text",
+					"headers +=",
+					"textnly",
+					"texto",
+					"Texto",
+					"texto",
+					"corregirEntitys",
+					"historico_feeds",
+					"historico_posts",
+					"envio",
+					"destinatario",
+					"LeerConfig",
+					"file_name",
+					"archivo",
+					"ruta",
+					"separadores",
+					"partes",
+					"explicacion",
+					"texto_nuevo",
+					"navigation",
+					"assert",
+					"calling home",
+					"played",
+					"signal",
+					"ARM",
+					"JSON",
+					"here",
+					"pandas",
+					"bar-title",
+					"view",
+					"controllers",
+					"models",
+					"import models",
+					"print",
+					"_version",
+					"cat",
+					"text",
+					"| *",
+					"1",
+					"199",
+					"Pascal",
+					"200",
+					"\"C\":C",
+					"split",
+					"</p>",
+					"<p>",
+					"2011",
+					"subliminal",
+					"get_segment_distance",
+					"get_square_segment_distance",
+					"index",
+					"new_points",
+					"new_polyline",
+					"points",
+					"sqdist",
+					"length",
+					"highestQuality",
+					"sqtolerance",
+					"simplifyDouglasPeucker",
+					"simplifyRadialDistance",
+					"getSquareSegmentDistance",
+					"getSquareDistance",
+					"'y'",
+					"'x'",
+					"now",
+					"title=",
+					"waening",
+					"branding",
+					"no title",
+					"favicon",
+					"local_uri",
+					"self.local_uri",
+					"local_uri"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"|=. *",
+					"\"C\":Wikipedia:C",
+					"\\n",
+					"",
+					"\"",
+					"    ",
+					"The MIT License (MIT)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the e, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n    \nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 112.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"javasc",
+						"dev/JavaScript/index.txt"
+					],
+					[
+						"infoviz",
+						"infoviz/index.txt"
+					],
+					[
+						"htmlarea",
+						"dev/htmlArea/index.txt"
+					],
+					[
+						"android",
+						"com/Google/Android/index.txt"
+					],
+					[
+						"vim/in",
+						"cli/vim/index.txt"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 227.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"template",
+						"template_id"
+					],
+					[
+						"tem",
+						"template_id"
+					],
+					[
+						"Str",
+						"Struct	class"
+					],
+					[
+						"re",
+						"redirect	function"
+					],
+					[
+						"qemu",
+						"qemu-system-arm"
+					],
+					[
+						"Fore",
+						"ForeignKeyField"
+					],
+					[
+						"content-",
+						"Content-Type"
+					],
+					[
+						"mar",
+						"markdown"
+					],
+					[
+						"fp",
+						"fp_code"
+					],
+					[
+						"query",
+						"query_time"
+					],
+					[
+						"random_",
+						"random_last_name"
+					],
+					[
+						"fav",
+						"favicon"
+					],
+					[
+						"de",
+						"defaultdict	import"
+					],
+					[
+						"no",
+						"NO_RESULTS"
+					],
+					[
+						"MUL",
+						"MULTIPLE_BAD_HISTOGRAM_MATCH"
+					],
+					[
+						"SIN",
+						"SINGLE_BAD_MATCH"
+					],
+					[
+						"SING",
+						"SINGLE_BAD_MATCH"
+					],
+					[
+						"NO",
+						"NO_RESULTS"
+					],
+					[
+						"NOT",
+						"NOT_ENOUGH_CODE"
+					],
+					[
+						"track_id",
+						"track_id_split"
+					],
+					[
+						"track_",
+						"track_id	statement"
+					],
+					[
+						"trac",
+						"track_id"
+					],
+					[
+						"list",
+						"mailing-list"
+					],
+					[
+						"include",
+						"include_private"
+					],
+					[
+						"incl",
+						"include_private"
+					],
+					[
+						"server",
+						"server_url"
+					],
+					[
+						"heapp",
+						"heappop"
+					],
+					[
+						"cl",
+						"cleanup"
+					],
+					[
+						"heap",
+						"heappush"
+					],
+					[
+						"hap",
+						"heappush"
+					],
+					[
+						"In",
+						"InMemoryHandler"
+					],
+					[
+						"e",
+						"e"
+					],
+					[
+						"Roboto",
+						"Roboto-Light"
+					],
+					[
+						"font-",
+						"font-family"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"list-",
+						"list-style-type"
+					],
+					[
+						"Roboto-Bold",
+						"Roboto-Bold-Condensed"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"local",
+						"local_uri"
+					],
+					[
+						"I",
+						"If-Modified-Since"
+					],
+					[
+						"json",
+						"json_response"
+					],
+					[
+						"JSONP",
+						"JSONPPlugin"
+					],
+					[
+						"bin",
+						"binascii"
+					],
+					[
+						"ser",
+						"server_url"
+					],
+					[
+						"rec",
+						"record"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/vagrant/.Xresources",
+					"settings":
+					{
+						"buffer_size": 113,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/vagrant/.fonts.conf",
+					"settings":
+					{
+						"buffer_size": 568,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/vagrant/.config/fbpanel/default",
+					"settings":
+					{
+						"buffer_size": 8536,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/vagrant/.config/openbox/rc.xml",
+					"settings":
+					{
+						"buffer_size": 25998,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/vagrant/bin/tile.sh",
+					"settings":
+					{
+						"buffer_size": 4216,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Preview in Chrome",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"git",
+						"Set Syntax: Git Graph"
+					],
+					[
+						"git commit",
+						"Git: Quick Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"qui",
+						"Git: Quick Commit"
+					],
+					[
+						"we",
+						"Web Inspector"
+					],
+					[
+						"web",
+						"Web Inspector"
+					],
+					[
+						"package control",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Discover Packages"
+					],
+					[
+						"upda",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"quick",
+						"Git: Quick Commit"
+					],
+					[
+						"install paca",
+						"Package Control: Install Package"
+					],
+					[
+						"package control ",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: Discover Packages"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"Qui",
+						"Git: Quick Commit"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"stat",
+						"Git: Status"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git statu",
+						"Git: Status"
+					],
+					[
+						"quic",
+						"Git: Quick Commit"
+					],
+					[
+						"git commit ",
+						"Git: Commit"
+					],
+					[
+						"qui c",
+						"Git: Quick Commit"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"gist",
+						"Git: Status"
+					],
+					[
+						"gi stat",
+						"Git: Status"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"previ",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"omni",
+						"Preferences: OmniMarkupPreviewer Settings – Default"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"q",
+						"Git: Quick Commit"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git psuh",
+						"Git: Push Current Branch"
+					],
+					[
+						"qui ",
+						"Git: Quick Commit"
+					],
+					[
+						"gi a",
+						"Git: Add..."
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"align",
+						"Preferences: Alignment Key Bindings – Default"
+					],
+					[
+						"text",
+						"Set Syntax: Textile"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"quick com",
+						"Git: Quick Commit"
+					],
+					[
+						"gi com",
+						"Git: Commit"
+					],
+					[
+						"git di",
+						"Git: Diff Current File"
+					],
+					[
+						"gi pu",
+						"Git: Push"
+					],
+					[
+						"git ",
+						"Git: Quick Commit"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"com",
+						"Git: Commit"
+					],
+					[
+						"commi",
+						"Git: Commit"
+					],
+					[
+						"g a",
+						"Git: Add..."
+					],
+					[
+						"gi sta",
+						"Git: Status"
+					],
+					[
+						"giad",
+						"Git: Add..."
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"g sta",
+						"Git: Status"
+					],
+					[
+						"git p",
+						"Git: Push"
+					],
+					[
+						"diff all",
+						"Git: Diff All"
+					],
+					[
+						"git am",
+						"Git: Amend Commit"
+					],
+					[
+						"pus",
+						"Git: Push"
+					],
+					[
+						"gipush",
+						"Git: Push"
+					],
+					[
+						"al",
+						"Preferences: Alignment File Settings – Syntax Specific – User"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"yaml",
+						"Set Syntax: YAML"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"syntaxh",
+						"Set Syntax: HTML"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/vagrant/.config/openbox/rc.xml",
+				"/Users/rcarmo/Dropbox/Development/github/ink-dash/sublime-project",
+				"/Users/rcarmo/Dropbox/Development/github/ink-dash/routes/__init__.py",
+				"/Users/rcarmo/Dropbox/Development/github/ink-dash/static/index.html",
+				"/Users/rcarmo/Dropbox/Development/github/ink-dash/static/js/Dash/Data/Grid/1/lib.js",
+				"/Users/rcarmo/Dropbox/Development/github/ink-dash/ink-dash.sublime-project",
+				"/Users/rcarmo/Dropbox/Scripts/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/rcarmo/Dropbox/Development/github/ink-dash/web_dev.py",
+				"/Users/rcarmo/Dropbox/Development/github/ink-dash/static/js/autoload.js",
+				"/Users/rcarmo/Dropbox/Development/github/ink-dash/static/js/Dash/Data/Binding/1/lib.js",
+				"/Users/rcarmo/Dropbox/Development/github/ink-dash/static/css/dash.css",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/06/30/1300/fabfile.py.txt",
+				"/Users/rcarmo/Dropbox/Scripts/digitalocean/control.py",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/06/30/1300/control.py.txt",
+				"/Users/rcarmo/Dropbox/Scripts/digitalocean.py",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/06/30/1300/draft.md",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/mixins.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/config/__grid.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/config/__tooltips.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/config/__typography.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/config/__widgets.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/widgets.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/alerts.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/icons/core.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/config/__navigation.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/tables.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/documentation/download.html",
+				"/Users/rcarmo/CloudPT/Development/Ink/cookbook/tables.html",
+				"/Users/rcarmo/CloudPT/Development/Ink/cookbook/fixed-width-column.html",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/docs.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/buttons.less",
+				"/Users/rcarmo/CloudPT/Development/Ink/less/modules/footer.less",
+				"/Users/rcarmo/Dropbox/Development/yaki-tng/lib/utils/stringkit.py",
+				"/Users/rcarmo/Dropbox/Development/yaki-tng/lib/yaki/Utils.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/app.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/routes/__init__.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/api/fingerprint.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/lib/echoprint/query_engine.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/lib/echoprint/track_id.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/routes/docs.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/templates/docs.tpl",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/static/css/ink-min.css",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/routes/docs.tpl",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/api/echoprint.py",
+				"/Users/rcarmo/CloudPT/Development/web.frameworks.samples/golang.raw/server.go",
+				"/Users/rcarmo/CloudPT/Development/web.frameworks.samples/golang.raw/row.html",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/lib/decorators.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/controllers/users.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/api/fever.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/controllers/feeds.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/lib/utils/favicon.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/docs/fever_api.html",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/importer.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/models/__init__.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/lib/utils/datakit.py",
+				"/Users/rcarmo/Dropbox/Development/github/bottle-fever/app.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/data/config.json",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/lib/echoprint/fp.py",
+				"/Users/rcarmo/CloudPT/Development/echoprint-server/front-end/lib/_api.py",
+				"/Users/rcarmo/Dropbox/Scripts/Sublime Text 2/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+				"/Users/rcarmo/Dropbox/Scripts/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/rcarmo/Dropbox/Development/github/newspipe/opml.py",
+				"/Users/rcarmo/Dropbox/Development/github/newspipe/newspipe.py",
+				"/Users/rcarmo/CloudPT/Development/lists-api/routes/__init__.py",
+				"/Users/rcarmo/CloudPT/Development/lists-api/lib/utils.py",
+				"/Users/rcarmo/Dropbox/Development/github/ink-bottle/lib/utils.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/lib/utils.py",
+				"/Users/rcarmo/CloudPT/Development/trac-ink/templates/site.html",
+				"/Users/rcarmo/CloudPT/Development/trac-ink/htdocs/css/trac-ink.css",
+				"/Users/rcarmo/CloudPT/Development/trac-ink/htdocs/css/ink.css",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/lib/beacon.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/app.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/README.md",
+				"/Users/rcarmo/CloudPT/Development/trac-ink/README",
+				"/Users/rcarmo/CloudPT/Development/lists-api/controllers/lists.py",
+				"/Users/rcarmo/CloudPT/Development/lists-api/controllers/__init__.py",
+				"/Users/rcarmo/CloudPT/Development/lists-api/api/lists.py",
+				"/Users/rcarmo/Dropbox/Scripts/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+				"/Users/rcarmo/Dropbox/Scripts/Mail/sieve.lists.sapo.vacation.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/02/24/2250/index.txt",
+				"/Users/rcarmo/CloudPT/Development/intra-api/data/config.json",
+				"/Users/rcarmo/Dropbox/Scripts/Mail/sieve.lists.sapo.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/02/24/2250/draft.md",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/02/24/1546/draft.md",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/02/23/1423/draft.md",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/api/__init__.py",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/data/config.json",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/models/__init__.py",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/app.py",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/static/index.html",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/views/search.tpl",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/routes/static.py",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/views/results.tpl",
+				"/Users/rcarmo/CloudPT/Development/pa-prototype/front-end/views/docs.tpl",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/02/03/1847/index.txt",
+				"/Users/rcarmo/CloudPT/Development/qtz-reverse/feeds.json",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/blog/2013/02/01/1700/draft.md",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/com/Google/Android/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/dev/htmlArea/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/infoviz/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/dev/JavaScript/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/cli/vim/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/dev/Python/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/protocols/X/index.txt",
+				"/Users/rcarmo/Dropbox/Sites/the.taoofmac.com/space/markup/CSS/index.txt",
+				"/Users/rcarmo/Dropbox/Development/sapo/broker/vpn.py",
+				"/Users/rcarmo/CloudPT/Development/intra-api/lib/utils.py",
+				"/Users/rcarmo/Dropbox/simplify.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/screens/tweets.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/screens/text.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/layout.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/screens/qrcode.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/routes/static.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/generic/debug.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/generic/locate.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/generic/nonet.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/lib/playlist.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/lib/decorators.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/static/css/common.css",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/data/config.json.dist",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/screens/pixelart.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/routes/__init__.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/routes/feeds.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/screens/news.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/static/css/news.css",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/generic/index.tpl",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/routes/content.py",
+				"/Users/rcarmo/CloudPT/Development/digital-signage-client/views/screens/brand.tpl"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"*.html",
+					"*.less",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"width",
+					"audio",
+					"\\\"",
+					"webinspector",
+					"start_qemu",
+					"table",
+					"border-radius",
+					"gradient",
+					"tooltip",
+					"border-radius",
+					"getpath",
+					"getPath",
+					"feeds",
+					"seq2",
+					"seq1",
+					"oneago",
+					"seq2",
+					"seq1",
+					"item2",
+					"onten",
+					"item1",
+					"code_string",
+					"cut_code_string_length",
+					"processing_time",
+					"trid",
+					"existing_trids",
+					"response",
+					"trackid",
+					"now",
+					", tic=tic",
+					"tic",
+					"trackids",
+					"local",
+					"pairs",
+					"random",
+					"s",
+					"actual_code",
+					"compressed_code_string",
+					" (",
+					"# end .*",
+					"arbol",
+					"AplanarArbol",
+					"entidades",
+					"# end def ",
+					"# end if",
+					"        # end if        \n",
+					"    # end for",
+					"lista",
+					"archivo",
+					"nombre",
+					"raiz",
+					"hijo",
+					"hijos",
+					"ProcesarRama",
+					"CrearDiccionario",
+					"ricardo",
+					"lista",
+					"AgruparItems",
+					"EnviarEmails",
+					"semaforo_html2text",
+					"headers +=",
+					"textnly",
+					"texto",
+					"Texto",
+					"texto",
+					"corregirEntitys",
+					"historico_feeds",
+					"historico_posts",
+					"envio",
+					"destinatario",
+					"LeerConfig",
+					"file_name",
+					"archivo",
+					"ruta",
+					"separadores",
+					"partes",
+					"explicacion",
+					"texto_nuevo",
+					"navigation",
+					"assert",
+					"calling home",
+					"played",
+					"signal",
+					"ARM",
+					"JSON",
+					"here",
+					"pandas",
+					"bar-title",
+					"view",
+					"controllers",
+					"models",
+					"import models",
+					"print",
+					"_version",
+					"cat",
+					"text",
+					"| *",
+					"1",
+					"199",
+					"Pascal",
+					"200",
+					"\"C\":C",
+					"split",
+					"</p>",
+					"<p>",
+					"2011",
+					"subliminal",
+					"get_segment_distance",
+					"get_square_segment_distance",
+					"index",
+					"new_points",
+					"new_polyline",
+					"points",
+					"sqdist",
+					"length",
+					"highestQuality",
+					"sqtolerance",
+					"simplifyDouglasPeucker",
+					"simplifyRadialDistance",
+					"getSquareSegmentDistance",
+					"getSquareDistance",
+					"'y'",
+					"'x'",
+					"now",
+					"title=",
+					"waening",
+					"branding",
+					"no title"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\"",
+					"|=. *",
+					"\"C\":Wikipedia:C",
+					"\\n",
+					"",
+					"\"",
+					"    ",
+					"The MIT License (MIT)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the e, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n    \nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/vagrant/.Xresources",
+							"settings":
+							{
+								"buffer_size": 113,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										113,
+										113
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/vagrant/.fonts.conf",
+							"settings":
+							{
+								"buffer_size": 568,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/vagrant/.config/fbpanel/default",
+							"settings":
+							{
+								"buffer_size": 8536,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4910,
+										4910
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3111.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/vagrant/.config/openbox/rc.xml",
+							"settings":
+							{
+								"buffer_size": 25998,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6634,
+										6634
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3536.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/vagrant/bin/tile.sh",
+							"settings":
+							{
+								"buffer_size": 4216,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1159,
+										1159
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1122.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"output.git":
+			{
+				"height": 112.0
+			},
+			"position": "0,0,0,0,0,639,0,1278,750,1280,800",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"javasc",
+						"dev/JavaScript/index.txt"
+					],
+					[
+						"infoviz",
+						"infoviz/index.txt"
+					],
+					[
+						"htmlarea",
+						"dev/htmlArea/index.txt"
+					],
+					[
+						"android",
+						"com/Google/Android/index.txt"
+					],
+					[
+						"vim/in",
+						"cli/vim/index.txt"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 163.0,
+			"status_bar_visible": true,
+			"window_id": 93,
+			"workspace_name": "/Users/rcarmo/Dropbox/Development/github/ink-dash/ink-dash.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/rcarmo/Dropbox/Development/github/ink-dash/ink-dash.sublime-project"
+		]
+	}
+}

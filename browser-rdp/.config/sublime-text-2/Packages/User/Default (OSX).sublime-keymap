@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+§"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    { "keys": ["ctrl+shift+t"], "command": "insert_date", "args": {"format": "%Y-%m-%d %H:%M:%S"} }
+]

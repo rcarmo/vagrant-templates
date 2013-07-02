@@ -1,0 +1,18 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python"
+		}
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Pastie.tmtheme",
+	"font_size": 10.0,
+	"ignored_packages":
+	[
+	],
+	"sublime_jedi.sublime-settings":
+	{
+		"auto_complete_function_params": "all"
+	}
+}

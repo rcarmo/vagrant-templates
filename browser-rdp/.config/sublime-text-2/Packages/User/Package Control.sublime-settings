@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"Color Highlighter",
+		"ColorPicker",
+		"Git",
+		"GitGutter",
+		"InsertDate",
+		"LESS",
+		"OmniMarkupPreviewer",
+		"Origami",
+		"Package Control",
+		"PythonTidy",
+		"SideBarEnhancements",
+		"SublimeBlockCursor",
+		"Terminal",
+		"VintageEx",
+		"Web Inspector"
+	]
+}

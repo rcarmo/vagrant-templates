@@ -1,4 +1,4 @@
-# LESS syntax package for Sublime Text 2
+# LESS syntax for Sublime Text
 
 Provides syntax highlighting for `.less` files + support for comment-toggle commands.
 
@@ -59,6 +59,17 @@ Some snippets to use in your favorite `.tmTheme` file.
   <dict>
     <key>foreground</key>
     <string>#98E124</string>
+  </dict>
+</dict>
+<dict>
+  <key>name</key>
+  <string>less.variable</string>
+  <key>scope</key>
+  <string>variable.declaration.less</string>
+  <key>settings</key>
+  <dict>
+    <key>foreground</key>
+    <string>#FEB55A</string>
   </dict>
 </dict>
 <dict>

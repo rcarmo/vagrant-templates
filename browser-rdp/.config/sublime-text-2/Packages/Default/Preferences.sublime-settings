@@ -46,7 +46,7 @@
     "tab_size": 4,
 
     // Set to true to insert spaces when tab is pressed
-    "translate_tabs_to_spaces": true,
+    "translate_tabs_to_spaces": false,
 
     // If translate_tabs_to_spaces is true, use_tab_stops will make tab and
     // backspace insert/delete up to the next tabstop
@@ -226,7 +226,11 @@
     // tab character - this allows tabs to be inserted when tab_completion is
     // enabled. Set this to true to make shift+tab always unindent, instead of
     // inserting tabs.
-    "shift_tab_unindent": true,
+    "shift_tab_unindent": false,
+
+    // If true, the copy and cut commands will operate on the current line
+    // when the selection is empty, rather than doing nothing.
+    "copy_with_empty_selection": true,
 
     // If true, the selected text will be copied into the find panel when it's
     // shown.
@@ -263,6 +267,13 @@
     // OS X 10.7 only: Set to true to disable Lion style full screen support.
     // Sublime Text must be restarted for this to take effect.
     "use_simple_full_screen": false,
+
+    // OS X only. Valid values are true, false, and "auto". Auto will enable
+    // the setting when running on a screen 2880 pixels or wider (i.e., a
+    // Retina display). When this setting is enabled, OpenGL is used to
+    // accelerate drawing. Sublime Text must be restarted for changes to take
+    // effect.
+    "gpu_window_buffer": "auto",
 
     // Valid values are "system", "enabled" and "disabled"
     "overlay_scroll_bars": "system",
@@ -321,6 +332,5 @@
 
     // List any packages to ignore here. When removing entries from this list,
     // a restart may be required if the package contains plugins.
-    //"ignored_packages": ["Vintage"]
-    "ignored_packages": []
+    "ignored_packages": ["Vintage"]
 }

@@ -34,7 +34,7 @@
     <!-- with Smart placement on a multi-monitor system, try to place new windows
        on: 'Any' - any monitor, 'Mouse' - where the mouse is, 'Active' - where
        the active window is, 'Primary' - only on the primary monitor -->
-    <primaryMonitor>1</primaryMonitor>
+    <primaryMonitor>Active</primaryMonitor>
     <!-- The monitor where Openbox should place popup dialogs such as the
        focus cycling popup, or the desktop switch popup.  It can be an index
        from 1, specifying a particular monitor.  Or it can be one of the
@@ -159,14 +159,14 @@
     <right>0</right>
   </margins>
   <dock>
-    <position>TopLeft</position>
+    <position>BottomRight</position>
     <!-- (Top|Bottom)(Left|Right|)|Top|Bottom|Left|Right|Floating -->
     <floatingX>0</floatingX>
     <floatingY>0</floatingY>
     <noStrut>no</noStrut>
     <stacking>Above</stacking>
     <!-- 'Above', 'Normal', or 'Below' -->
-    <direction>Vertical</direction>
+    <direction>Horizontal</direction>
     <!-- 'Vertical' or 'Horizontal' -->
     <autoHide>no</autoHide>
     <hideDelay>300</hideDelay>
@@ -178,16 +178,22 @@
   </dock>
   <keyboard>
     <keybind key="C-S-Left">
-      <action name="Execute">
-        <execute>/home/vagrant/bin/tile.sh -l</execute>
-      </action>
-      <monitor>1</monitor>
-    </keybind>
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo">
+         <x>0</x>
+	  <y>0</y>
+	  <width>50%</width>
+	  <height>98%</height>
+	</action>
+      </keybind>
     <keybind key="C-S-Right">
-      <action name="Execute">
-        <execute>/home/vagrant/bin/tile.sh -r</execute>
-      </action>
-      <monitor>1</monitor>
+      <action name="UnmaximizeFull"/>
+        <action name="MoveResizeTo">
+          <x>50%</x>
+          <y>0</y>
+          <width>50%</width>
+          <height>98%</height>
+        </action>
     </keybind>
     <chainQuitKey>C-g</chainQuitKey>
     <!-- Keybindings for desktop switching -->

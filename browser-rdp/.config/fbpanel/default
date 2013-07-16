@@ -142,7 +142,6 @@ Plugin {
     config {
         IconSize = 22
         #icon = start-here
-        # Use a nice Debian logo for the menu list ;-)
         image = /usr/share/pixmaps/debian-logo.png
         systemmenu {
         }
@@ -157,11 +156,6 @@ Plugin {
 		icon = terminal
 		action = x-terminal-emulator
 	    }
-            item {
-                name = Lock Display
-                icon = gnome-lockscreen
-                action = slock
-            }
             separator {
             }
 #            item {

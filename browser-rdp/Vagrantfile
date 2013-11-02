@@ -4,8 +4,21 @@
 Vagrant.configure("2") do |config|
   config.vm.box = "raring64"
   config.vm.network :forwarded_port, guest: 3389, host: 3389
-  config.vm.provision :puppet do |puppet|
-     puppet.manifests_path = "manifests"
-     puppet.manifest_file  = "init.pp"
-  end
+  config.vm.provision :shell, :inline => <<END
+# Check if we need to perform a weekly upgrade - this also triggers initial provisioning
+touch -d '-1 week' /tmp/.limit
+if [ /tmp/.limit -nt /var/cache/apt/pkgcache.bin ]; then
+    echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | sudo debconf-set-selections
+    dpkg --add-architecture i386
+    apt-get -y update
+    apt-get -y dist-upgrade
+    apt-get -y install chromium-browser htop tmux openbox xrdp lxterminal vim fbpanel lxappearance bash-completion elementary-icon-theme software-properties-common ttf-mscorefonts-installer rsync
+fi
+rm /tmp/.limit
+
+cd /vagrant
+rsync -ur .xsession .bash_profile .fonts.conf .gtkrc-2.0 .config  /home/vagrant
+
+chown -R vagrant:vagrant /home/vagrant
+END
 end

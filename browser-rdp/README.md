@@ -12,5 +12,6 @@ Includes:
 * Openbox
 * xrdp
 * Microsoft Truetype fonts
+* A minimal desktop environment (openbox + fbpanel +leafpad + pcmanfm)
 
 [r]: http://en.wikipedia.org/wiki/Remote_Desktop_Protocol

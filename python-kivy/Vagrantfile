@@ -1,0 +1,29 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+# This Vagrantfile targets the vagrant-lxc provider. It should work on other providers given
+# a relatively recent version of Vagrant, but your mileage may vary.
+
+Vagrant.configure("2") do |config|
+  config.vm.box = "raring64"
+  config.vm.provision :shell, :inline => <<END
+# Check if we need to perform a weekly upgrade - this also triggers initial provisioning
+touch -d '-1 week' /tmp/.limit
+
+# Install base packages
+if [ /tmp/.limit -nt /var/cache/apt/pkgcache.bin ]; then
+    apt-get -y update
+    apt-get -y dist-upgrade
+    apt-get -y install htop tmux vim rsync python-dev python-setuptools
+    # install Kivy PPA
+    apt-get -y install software-properties-common
+    add-apt-repository ppa:kivy-team/kivy
+    apt-get -y update
+    # install Kivy and other required packages
+    apt-get -y install python-kivy python-kivy-examples zlib1g-dev git cython openjdk-7-jdk
+    sudo easy_install buildozer
+fi
+rm /tmp/.limit
+
+END
+end

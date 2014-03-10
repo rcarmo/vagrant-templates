@@ -20,7 +20,7 @@ if [ /tmp/.limit -nt /var/cache/apt/pkgcache.bin ]; then
     add-apt-repository ppa:kivy-team/kivy
     apt-get -y update
     # install Kivy and other required packages
-    apt-get -y install python-kivy python-kivy-examples zlib1g-dev git cython openjdk-7-jdk
+    apt-get -y install python-kivy python-kivy-examples zlib1g-dev git cython openjdk-7-jdk unzip build-essential
     sudo easy_install buildozer
 fi
 rm /tmp/.limit

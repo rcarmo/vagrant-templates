@@ -1,0 +1,35 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+# This Vagrantfile targets the vagrant-lxc provider. It should work on other providers given
+# a relatively recent version of Vagrant, but your mileage may vary.
+
+Vagrant.configure("2") do |config|
+  config.vm.box = "wheezy64"
+
+  config.vm.provision :shell, :inline => <<END
+# Check if we need to perform a weekly upgrade - this also triggers initial provisioning
+touch -d '-1 week' /tmp/.limit
+if [ /tmp/.limit -nt /var/cache/apt/pkgcache.bin ]; then
+    # Add i386 architecture (required by the Linaro toolchain)
+    sudo apt-get -y update
+    sudo apt-get -y dist-upgrade
+    # Basic survival kit
+    sudo apt-get -y install htop tmux vim git build-essential bash-completion
+    # QEMU - if running this inside vagrant-lxc, you must install on the _host_ to get binfmt support
+    sudo apt-get -y install qemu-user-static
+fi
+rm /tmp/.limit
+
+# Download toolchain
+if [ ! -e /opt/rpi ]; then
+    sudo mkdir -p /opt
+    cd /opt
+    sudo git clone https://github.com/WebKitNix/nix-rpi-sdk.git
+    cd nix-rpi-sdk
+    sudo tar xf rpi-sdk-x86_64.tar.xz
+    wget https://raw.github.com/WebKitNix/nix-rpi-sdk/master/start-rpi-sdk
+    sudo chmod +x start-rpi-sdk
+fi
+END
+end
